@@ -1,0 +1,2 @@
+property:
+  cloud-config: value coming from cloud-config server
